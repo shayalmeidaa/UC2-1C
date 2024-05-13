@@ -12,7 +12,7 @@
 # Tereza Oliveira
 
 Atividade 1: Trello 
--[Grupo](link)
+- [Grupo](link)
 
 
 

@@ -9,10 +9,18 @@
 - Coloque como título o seu nome completo. Ex: # SEU NOME
 - insira os links dos trabalhos e atividades que você desenvolveu e participou durante esta UC.
 
-# Tereza Oliveira
+# Shayanne Almeida
 
 Atividade 1: Trello 
-- [Grupo](link)
 
+- [Grupo - Netflix](https://trello.com/invite/b/gUtHY6Ln/ATTI4f93e0612813bcd15fdf1d925706654c3828DDAC/trabalho-maneiro)
+- [Grupo - Gerenciamento de entregas](https://trello.com/invite/b/4GwFxWwX/ATTI9037741bbc768bb210305c0bcd12adf084510D63/gerenciamento-de-entregas)
+- [Individual - Projeto pessoal](https://trello.com/invite/b/gdGDaAym/ATTIb74e9a0673c3793825de21b367dcf5936D95894D/projeto-pessoal-musica)
 
+Atividade 2: Linguagem de programação 
 
+- [C++](https://www.canva.com/design/DAGEjWwOWGA/Me6Xn4CuGQC1s3_PGDGzMw/edit)
+
+Atividade 3: Projeto social
+
+- [Moradias em locais inadequados](https://www.canva.com/design/DAGCfmrJtpQ/XYYHA_xkNL4-ltXdDd-5og/edit)

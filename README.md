@@ -32,3 +32,7 @@ Atividade 4: Business Model Canvas
 Atividade 5: Cargo dos sonhos
 
 - [Cargo dos sonhos](https://docs.google.com/document/d/19NwxiARLymi5cZBtGZbWFnAXOdvjRnv7IrN0l-RweYg/edit?usp=sharing_)
+
+Atividade 6: Gráfico de Gantt
+
+-[Show de talentos - Eu, Luan Hiroshy, Breno Araujo](https://docs.google.com/spreadsheets/d/1gtfuIavy_vFio8NyZlj-76ZPUjvuA-6n8cFxK8vRSkE/edit?usp=sharing)
